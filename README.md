@@ -6,4 +6,5 @@ Simple real time chat app made using Feathers JS which is a Node JS framework an
 $ npm install
 
 $ npm run
+
 `
